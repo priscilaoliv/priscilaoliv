@@ -1,4 +1,4 @@
-<img src = "gif.gif" width = "320px" align = "right">
+<img src = "Nft Coding GIF.gif" width = "320px" align = "right">
 
 # ❤️ Seja bem vindo(a), é bom ter você aqui! 
 💻 Sou apaixonada por tecnologia e desenvolvedora de software.
